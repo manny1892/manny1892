@@ -8,7 +8,8 @@
 - VK: https://vk.com/mannyramirez
 
 # Портфолио
-## Учебные проекты https://netology.ru/. Курс - Тестировщик ПО.
+## Учебные проекты https://netology.ru/. 
+### Курс - "Тестировщик ПО"
 
 [1) Курсовой проект "Ручное тестирование веб-приложений"](https://docs.google.com/spreadsheets/d/1kBK8dHSDg1nze-iYaehJ8vMSS1tQaI4_A1JJ2xK3VQs/edit?usp=sharing)
 
@@ -31,9 +32,15 @@
 - оформлено 22 [баг-репорта](https://github.com/manny1892/QADiplomWork/issues). Из них 16 на UI и 8 на API
 - составлен [отчет о проведенной автоматизации](https://github.com/manny1892/QADiplomWork/blob/master/Summary.md) с помощью Allure
 
+### Курс - "SQL и получение данных"
 
+[Итоговая работа курса "SQL и получение данных"](https://docs.google.com/document/d/1t1i98jEF4Wq1eeH_dHoRo19iQ6Hp17jYnzzC7GzxnA4/edit)
 
+В рамках работы:
 
+- произведено локальное подключение к используемой БД
+- выполнено описание таблиц и проанализированны бизнес задачи предоставленной БД 
+- написано 9 SQL запросов к БД с использованнием подзапросов, соединений, функций и операторов PostgreSQL.
 
 
 <!--
