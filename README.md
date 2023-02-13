@@ -40,7 +40,7 @@
 - написано 13 [юнит тестов](https://github.com/manny1892/TeamProject/blob/main/src/test/java/ru/netology/GameStoreTest.java) на предоставленный Java код.
 - оформлено 5 [баг-репортов](https://github.com/manny1892/TeamProject/issues?q=is%3Aissue+is%3Aclosed) по найденным дефектам кода.
 - исправлены дефекты [кода](https://github.com/manny1892/TeamProject/blob/main/src/main/java/ru/netology/Player.java) по 5 баг-репортам, оформленным другим участником командного проекта.
-- подключил и настроил [система CI](https://github.com/manny1892/TeamProject/actions) (GitHub Actions)
+- подключена и настроена [система CI](https://github.com/manny1892/TeamProject/actions) (GitHub Actions)
 - отработаны навыки командного планирования и взаимодействия
 
 ### Курс - "SQL и получение данных"
