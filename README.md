@@ -8,7 +8,7 @@
 - VK: https://vk.com/mannyramirez
 
 # Портфолио
-## Учебные проекты https://netology.ru/. 
+## Учебные проекты https://netology.ru/
 ### Курс - "Тестировщик ПО"
 
 [1) Курсовой проект "Ручное тестирование веб-приложений"](https://docs.google.com/spreadsheets/d/1kBK8dHSDg1nze-iYaehJ8vMSS1tQaI4_A1JJ2xK3VQs/edit?usp=sharing)
@@ -32,6 +32,16 @@
 - оформлено 22 [баг-репорта](https://github.com/manny1892/QADiplomWork/issues). Из них 16 на UI и 8 на API
 - составлен [отчет о проведенной автоматизации](https://github.com/manny1892/QADiplomWork/blob/master/Summary.md) с помощью Allure
 
+[3) Командный проект блока "Java для тестировщиков"](https://github.com/manny1892/TeamProject)
+
+В рамках командного проекта:
+
+- написано 13 [юнит тестов](https://github.com/manny1892/TeamProject/blob/main/src/test/java/ru/netology/GameStoreTest.java) на предоставленный Java код.
+- оформлено 5 [баг-репортов](https://github.com/manny1892/TeamProject/issues?q=is%3Aissue+is%3Aclosed) по найденным дефектам кода.
+- исправлены дефекты [кода](https://github.com/manny1892/TeamProject/blob/main/src/main/java/ru/netology/Player.java) по 5 баг-репортам, оформленным другим участником командного проекта.
+- подключил и настроил [система CI](https://github.com/manny1892/TeamProject/actions) (GitHub Actions)
+- отработаны навыки командного планирования и взаимодействия
+
 ### Курс - "SQL и получение данных"
 
 [Итоговая работа курса "SQL и получение данных"](https://docs.google.com/document/d/1t1i98jEF4Wq1eeH_dHoRo19iQ6Hp17jYnzzC7GzxnA4/edit)
@@ -41,6 +51,11 @@
 - произведено локальное подключение к используемой БД
 - выполнено описание таблиц и проанализированны бизнес задачи предоставленной БД 
 - написано 9 SQL запросов к БД с использованнием подзапросов, соединений, функций и операторов PostgreSQL.
+
+# Сертификаты
+- [Сертификат о прохождении курса "Тестировщик ПО"](https://netology.ru/backend/api/user/programs/25337/pdf_certificate)
+- [Сертификат о прохождении курса "SQL и получение данных"](https://netology.ru/backend/api/user/programs/24441/pdf_certificate)
+
 
 
 <!--
