@@ -54,8 +54,8 @@
 - написано 9 SQL запросов к БД (с описанием логики) с использованнием подзапросов, соединений, функций и операторов PostgreSQL.
 
 # Сертификаты
-- [Сертификат о прохождении курса "Тестировщик ПО"](https://netology.ru/backend/api/user/programs/25337/pdf_certificate)
-- [Сертификат о прохождении курса "SQL и получение данных"](https://netology.ru/backend/api/user/programs/24441/pdf_certificate)
+- [Сертификат о прохождении курса "Тестировщик ПО"](https://github.com/manny1892/manny1892/blob/main/certificate%20(1).pdf)
+- [Сертификат о прохождении курса "SQL и получение данных"](https://github.com/manny1892/manny1892/blob/main/certificate%20(2).pdf)
 
 
 
