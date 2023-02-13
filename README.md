@@ -30,6 +30,7 @@
 - реализован тестовый фреймворк для управления данными и проверки состояния БД при помощи Faker и DBUtils
 - [автоматизированно 100 тестовых сценариев](https://github.com/manny1892/QADiplomWork/tree/master/src/test/java/test) (12 API и 88 UI) при помощи паттернов проектирования Page Object, фреймворков Selenide, REST Assured и Gson
 - оформлено 22 [баг-репорта](https://github.com/manny1892/QADiplomWork/issues). Из них 16 на UI и 8 на API
+- составлен [отчет по итогам тестирования](https://github.com/manny1892/QADiplomWork/blob/master/TestReport.md)
 - составлен [отчет о проведенной автоматизации](https://github.com/manny1892/QADiplomWork/blob/master/Summary.md) с помощью Allure
 
 [3) Командный проект блока "Java для тестировщиков"](https://github.com/manny1892/TeamProject)
