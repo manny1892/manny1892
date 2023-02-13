@@ -15,7 +15,7 @@
 В рамках курсового проекта по ручному тестированию сайта интернет-магазина https://henderson.ru/:
 - написан [чек-лист](https://docs.google.com/spreadsheets/d/1TznrKMXzDyLx6_KCxiOztL0qFBdjugDTM-IEcM5tvfE/edit?usp=sharing) проверки функционала личного кабинета сайта 
 - проведено [тестирование требований](https://docs.google.com/document/d/1Aolp1ogBMOXkeGBtWuEZVoBJo40Kh9xSrOMmSSvzHIs/edit?usp=sharing) к пользовательскому сценарию по процессу восстановления пароля на сайте henderson.ru
-- на основе требований созданно 22 [тест-кейса](https://docs.google.com/spreadsheets/d/1TznrKMXzDyLx6_KCxiOztL0qFBdjugDTM-IEcM5tvfE/edit?usp=sharing) к пользовательскому сценарию по процессу восстановления пароля на сайте henderson.ru
+- на основе требований созданно 22 [тест-кейса](https://docs.google.com/spreadsheets/d/1HujRaajAZ-g3LLCNG0rfx5qXdabTG1MC0wSFXkAqFwo/edit?usp=sharing) к пользовательскому сценарию по процессу восстановления пароля на сайте henderson.ru
 - оформлено 4 [баг-репорта](https://docs.google.com/spreadsheets/d/1wh28eB16iIIaaW6DRm1MqUh0PJkmNzwblpkX_amMYBc/edit?usp=sharing) на дефекты на сайте henderson.ru
 - проведено тестирование верстки и изучение структуры POST запросов при помощи DevTools
 
