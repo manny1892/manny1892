@@ -2,6 +2,9 @@
 #### Здравствуйте!👋
 Меня зовут Деревянинов Виктор. Я начинающий тестировщик программного обеспечения.
 
+#### Мой стек:
+Java, PosgreSQL, MySQL, Mantis, Jira, REST API, SOAP API, Postman, DevTools, GIT, Selenium, Selenide, Gradle, Apache Maven, Docker, JUnit 5, TestNG, HTML, CSS
+
 ## Мои контакты
 - E-mail: manny1892@gmail.com
 - Telegram: https://t.me/MikeShapki
